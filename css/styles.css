@@ -217,3 +217,7 @@ body {
 
   color: var(--primary-light-txt);
 }
+
+h1 {
+  visibility: hidden;
+}
